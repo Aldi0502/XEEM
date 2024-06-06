@@ -1,0 +1,77 @@
+header{
+    height: 300px;
+    background-color: blueviolet;/*все ещё хочу пиццу*/
+    color: rgb(255, 0, 0);/*мне не дали пиццу*/
+    text-align: center;
+    font-size: 40px;/*дайте ине пицу!!*/
+    padding-top: 60px;
+    background-image: url("https://st.depositphotos.com/2828735/3377/i/450/depositphotos_33775785-stock-photo-green-molecule-dna-cell-illustration.jpg");
+    background-size: cover;
+    background-position:center ;
+    font-family:"Comic Sans MS";
+    text-shadow: 2px 2px #000;
+}
+body{
+    margin: 0;
+    background-color: rgb(194, 23, 209);/*все ещё хочу пиццу*/
+    color: rgb(255, 0, 0);/*мне не дали пиццу*/
+    text-align: end;
+    font-size: 40px;/*дайте ине пицу!!*/
+    background-image: url(https://avatars.dzeninfra.ru/get-zen_doc/9366206/pub_649b1e72693f856f34bb4d4e_649b1ed77c186873849a894a/scale_1200);
+    background-size: 50%;
+    background-position:bottom ;
+    font-family:"Comic Sans MS";
+    text-shadow: 2px 2px #000;
+
+}
+.left{
+    width: 50%;
+}
+
+.right{
+    width: 50%;
+}
+
+
+
+
+
+main{
+    height: 100%;/*я хочу пиццу*/ 
+    background-color: rgb(92, 7, 109);/*все ещё хочу пиццу*/
+    color: rgb(200, 247, 90);/*мне не дали пиццу*/
+    text-align: center;
+    font-size: 40px;/*дайте ине пицу!!*/
+    padding-top: 60px; 
+    background-image: url(https://st.depositphotos.com/2828735/3377/i/450/depositphotos_33775785-stock-photo-green-molecule-dna-cell-illustration.jpg);
+    background-size: cover;
+    background-position:bottom ;
+    font-family:"Comic Sans MS";
+    text-shadow: 2px 2px #000;
+    display: flex;
+ 
+}
+
+footer{
+    height: 500px;
+    background-color: rgb(26, 118, 51);
+    color: rgb(0, 0, 0);
+    text-align:center;
+    font-size: 30px;
+    padding-top: 15px;
+
+}
+
+
+.social img{
+    width: 120px;
+    padding-left: 10px;
+}
+
+.social {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
